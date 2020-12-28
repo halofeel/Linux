@@ -6,7 +6,7 @@
 
 # 第二部分 Linux文件、目录与磁盘格式
 
-[Linux的文件权限与目录配置]:./Part2/Linux的文件权限与目录配置.md
+[Linux的文件权限与目录配]:Part2/Linux的文件权限与目录配置.md
 
 Linux文件与目录管理
 
