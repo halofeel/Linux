@@ -8,8 +8,9 @@
 
 [Linux的文件权限与目录配置](Part2/Linux的文件权限与目录配置.md)
 
-Linux文件与目录管理
+[Linux文件与目录管理](Part2/Linux文件与目录管理.md)
 
-Linux磁盘与文件系统管理
+[Linux磁盘与文件系统管理](Part2/Linux磁盘与文件系统管理.md)
 
-文件与文件系统的压缩
+[文件与文件系统的压缩](Part2/文件与文件系统的压缩.md)
+
